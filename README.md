@@ -10,5 +10,5 @@ Portfolio Alex Valdez
 3. Etapa de planificación
 4. Create react app
 
-cd app
+cd app |
 npm start
