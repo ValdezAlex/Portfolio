@@ -9,3 +9,6 @@ Portfolio Alex Valdez
 2. Instalar todo lo necesario
 3. Etapa de planificación
 4. Create react app
+
+cd app
+npm start
