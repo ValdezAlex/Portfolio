@@ -1,3 +1,3 @@
-# Portfolio
+# Portfolio (development)
 
-Portfolio Alex Valdez (development)
+Portfolio Alex Valdez 
