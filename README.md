@@ -21,4 +21,7 @@ Portfolio Alex Valdez
     3. npm i - Instalar paquetes
     4. npm start - Iniciar el proyecto
     5. al realizar cambios:
-        1. git 
+        1. git status
+        2. git add .
+        3. git commit -m "mensaje de cambios"
+        4. git push
