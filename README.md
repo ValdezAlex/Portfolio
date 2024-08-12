@@ -13,7 +13,8 @@ Portfolio Alex Valdez
 
 
 Pasos:
-npm init react-app "nombre-del-proyecto" - Crear proyecto
-cd "proyecto" - Abrir el proyecto
-npm i - Instalar paquetes
-npm start - Iniciar el proyecto
+
+1. npm init react-app "nombre-del-proyecto" - Crear proyecto
+2. cd "proyecto" - Abrir el proyecto
+3. npm i - Instalar paquetes
+4. npm start - Iniciar el proyecto
