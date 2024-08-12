@@ -32,3 +32,10 @@ Portfolio Alex Valdez
         3. docker ps // muestra los contenedores corriendo
         4. docker stop "image id" // detiene el contenedor correspondiente
         5. docker run -p "puerto":"puerto" "nombre del contenedor" // -p apunta el puerto de la maquina al puerto del contenedor
+    7. docker compose
+        1. create docker-compose.yml
+        2. docker-compose up 
+        3. para importar: usar el docker-compose.yml y cambiarle el build por image: "nombre de la imagen"
+        4. docker-compose up -d // -d modo background
+        5. docker-compose logs // -f
+        6. docker-compose stop
