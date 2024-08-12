@@ -17,7 +17,7 @@ function Home() {
 
                 <p className="hero-section__description">
                     <span>
-                        Somos una organización social integrada por personas del colectivo <strong>LGTBIQANB+</strong> y personas con discapacidad (<strong>PcD</strong>).
+                        <strong>Portfolio</strong> Valdez Alex.
                     </span>
                     <span>
                         Actuamos para la inserción laboral de nuestra comunidad en empleos formales del <strong>área de sistemas</strong>. Para lograrlo, realizamos <strong>cursos y capacitaciones gratuitas.</strong>
