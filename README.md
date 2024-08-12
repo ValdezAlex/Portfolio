@@ -2,7 +2,7 @@
 
 Portfolio Alex Valdez 
 
-0. Tecnologias usadas: 
+Tecnologias usadas: 
     1. Docker
     2. React
     3. Git
