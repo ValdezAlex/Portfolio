@@ -8,15 +8,17 @@ Portfolio Alex Valdez
     3. Git
 
 # Etapas   
-1. Dockerizar proyecto
-2. Instalar todo lo necesario
-3. Etapa de planificación
-4. Create react app
+    1. Dockerizar proyecto
+    2. Instalar todo lo necesario
+    3. Etapa de planificación
+    4. Create react app
 
 
 # Pasos:
 
-1. npm init react-app "nombre-del-proyecto" - Crear proyecto
-2. cd "proyecto" - Abrir el proyecto
-3. npm i - Instalar paquetes
-4. npm start - Iniciar el proyecto
+    1. npm init react-app "nombre-del-proyecto" - Crear proyecto
+    2. cd "proyecto" - Abrir el proyecto
+    3. npm i - Instalar paquetes
+    4. npm start - Iniciar el proyecto
+    5. al realizar cambios:
+        1. git 
