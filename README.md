@@ -7,12 +7,16 @@ Portfolio Alex Valdez
     2. Git
     3. React
     4. Sass
+    5. MySQL
+    6. Java
+    7. Api's
 
 # Etapas   
     1. Dockerizar proyecto
     2. Instalar todo lo necesario
     3. Etapa de planificación
     4. Create react app
+    5. Integración de Api's de IA
 
 
 # Pasos:
