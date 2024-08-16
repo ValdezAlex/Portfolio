@@ -10,6 +10,7 @@ Portfolio Alex Valdez
     5. MySQL
     6. Java
     7. Api's
+    8. Flux IA
 
 # Etapas   
     1. Dockerizar proyecto

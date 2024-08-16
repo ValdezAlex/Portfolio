@@ -1,0 +1,6 @@
+Elegant UI screenshot of the landing page for a programmer's portfolio website. The design features a minimalist, modern dark-mode theme, with a grey and soft dark color palette, complemented by subtle accents of deep blue. The Landing page includes the folowwing sections: 
+1.Header: A clean navigation bar with the programmer's logo on the left and navigation links to "Proyectos", "About Us" and "Contact" on the right. A captivating hero title reads, "Designing Dreams, Building Realities."
+2.Proyectos: A visually appealing section divided into two categories: "Multifamiliar" and "Unifamiliar", showcasing images of various programming projects. Each project image should include a brief description, emphasizing the sophisticacion and functionality of the designs.
+3.Abot Us: A section with a professional headshot of the programmer, a brief description of the firm's design philosophy, and a showcase of awards or recognitions. The layout should be clean, with text and images balances to create an inviting narrative.
+4.Contact Form: A user-frienly contact form with fields for name, email, phone, and message, encouraging potential clients to reach out. Include a subtle call-to-action, like "Let's Bring Your Vision to Life".
+5.Footer: Four oval buttons each with the logo of a social network.
