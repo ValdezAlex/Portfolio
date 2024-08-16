@@ -11,6 +11,7 @@ Portfolio Alex Valdez
     6. Java
     7. Api's
     8. Flux IA
+    9. Figma
 
 # Etapas   
     1. Dockerizar proyecto
