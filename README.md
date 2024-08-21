@@ -20,9 +20,7 @@ Portfolio Alex Valdez
     4. Create react app
     5. Integración de Api's de IA
 
-
 # Pasos:
-
     1. npm init react-app "nombre-del-proyecto" - Crear proyecto
     2. cd "proyecto" - Abrir el proyecto
     3. npm i - Instalar paquetes
@@ -47,3 +45,9 @@ Portfolio Alex Valdez
         4. docker-compose up -d // -d modo background
         5. docker-compose logs // -f
         6. docker-compose stop
+
+# Ideas:
+    1. Landing Page
+    2. Foro
+    3. Light mode - Dark mode
+    4. Tipografia fixedsys
