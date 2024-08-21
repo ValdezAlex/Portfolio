@@ -51,3 +51,11 @@ Portfolio Alex Valdez
     2. Foro
     3. Light mode - Dark mode
     4. Tipografia fixedsys
+
+
+
+
+
+
+### Estados
+Problemas con docker compose, no actualiza el proyecto al hacer el docker-compose up

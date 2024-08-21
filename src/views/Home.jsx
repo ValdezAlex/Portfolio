@@ -17,7 +17,7 @@ function Home() {
 
                 <p className="hero-section__description">
                     <span>
-                        <strong>Portfolio</strong> Valdez Alex.
+                        <strong>Portfolio</strong> Alex Valdez.
                     </span>
                     <span>
                         Actuamos para la inserción laboral de nuestra comunidad en empleos formales del <strong>área de sistemas</strong>. Para lograrlo, realizamos <strong>cursos y capacitaciones gratuitas.</strong>

@@ -4,7 +4,7 @@ services:
     build: .
     ports:
       - 3000:3000
-  mysql:
-    image: mysql:latest
-    environment:
-      - MYSQL_ROOT_PASSWORD=1234
+#  mysql:
+#    image: mysql:latest
+#    environment:
+#      - MYSQL_ROOT_PASSWORD=1234
