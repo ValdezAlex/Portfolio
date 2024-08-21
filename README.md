@@ -28,16 +28,18 @@ Portfolio Alex Valdez
     3. npm i - Instalar paquetes
     4. npm start - Iniciar el proyecto
     5. al realizar cambios:
-        1. git status
-        2. git add .
-        3. git commit -m "mensaje de cambios"
-        4. git push
+        1. git status       # Comprueba si hay cambios en Local
+        2. git add .        # Agrega los cambios
+        3. git commit -m "mensaje de cambios"       # Agrega el commit con su mensaje
+        4. git push         # Sube los cambios
+        5. git fetch        # Comprueba si hay cambios en Origin
+        6. git pull         # Trae los cambios de Origin a Local
     6. docker
-        1. docker build -t "nombre del tag" . //-t tag
+        1. docker build -t "nombre del tag" .       # -t tag
         2. docker images
-        3. docker ps // muestra los contenedores corriendo
-        4. docker stop "image id" // detiene el contenedor correspondiente
-        5. docker run -p "puerto":"puerto" "nombre del contenedor" // -p apunta el puerto de la maquina al puerto del contenedor
+        3. docker ps                    # Muestra los contenedores corriendo
+        4. docker stop "image id"       # detiene el contenedor correspondiente
+        5. docker run -p "puerto":"puerto" "nombre del contenedor"      # -p apunta el puerto de la maquina al puerto del contenedor
     7. docker compose
         1. create docker-compose.yml
         2. docker-compose up 
